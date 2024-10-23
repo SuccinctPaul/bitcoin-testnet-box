@@ -4,3 +4,5 @@
 ?/regtest/*
 !?/regtest/server.pem
 !?/regtest/server.cert
+.idea
+.DS_Store
